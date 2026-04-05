@@ -1,0 +1,8 @@
+"nama": "ExtCloud",
+    "deskripsi": "Koleksi ekstensi Cloudstream",
+    "iconUrl": "https://154.26.137.28/",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/duro92/ExtCloud/builds/plugins.json"
+    ]
+}
